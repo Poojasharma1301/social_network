@@ -1,30 +1,35 @@
 
 # social_network
 <h4>All features : -</h4>
-1.signin <br>
-2.signup <br>
-3.forgot password <br>
-4.post <br>
-5.massage <br>
-6.search users <br>
-7.search perticular posts <br>
-8.add account <br>
-9.add profile <br>
-10.view profile <br>
-11.view post <br>
-12.delet post<br>
-13.comment on post<br>
-14.logout <br>
+This is an social networking site ...where <br>
 
-<h4>Procees : -</h4>
- <br> 
-This is an social networking site ...where you made your account if you new on this social network platform . and if you already made an account you directly sign in on this network 
-and there is an security question also if you forgot your password then you use this feature of forgot password ..after sign in you switch on the home page of this network were you 
-post your research and knowledge ..you follow your friends and search your firends my first name as well as last name and search your followers perticular post by using search button given
-to the top right corner..you add your profile by changing your profile image and default background image ..you change your password by using change password feature..and also answer 
-and save your security question..view your all post by clicking on post feature and you also communicate with your friends by using massage feature ....after all you logout your 
-account...
-<h4>screenshots</h4> <br> 
+1.signin :- if you already made an account you directly sign in on this social network.<br>
+
+2.signup :- you made your account if you new on this social network platform . <br>
+
+3.forgot password :-there is an security question also if you forgot your password then you use this feature of forgot password.<br>
+
+4. Post :-after sign in you switch on the home page of this network were you post your research and knowledge .<br>
+
+5.massage :-you also communicate with your friends by using massage feature .<br>
+
+6.search users :-you follow your friends and search your firends by first name as well as last name .<br>
+
+7.search perticular posts :-you search your followers perticular post by using search button given to the top right corner.<br>
+
+8.add account :-you change your password by using change password feature..and also answer and save your security question.<br>
+
+9.add profile :-corner..you add your profile by changing your profile image and default background image .<br>
+
+10.view profile :-you can also view your users as well as your profile by clicking on view profile feature.<br>
+
+11.view post :-question..view your all post by clicking on post feature.<br>
+
+12.delet post :- delete your perticular post by clicking on delete post feature .<br>
+
+13.comment on post:-you can comments on your friends post .<br>
+<br>
+14.logout :-after all you logout your account . This will gave more security to this social network ..<br>
 
 
 ![addaccount](https://user-images.githubusercontent.com/63538576/87392541-58141c00-c5ca-11ea-84b1-334fd9ddea70.PNG)
