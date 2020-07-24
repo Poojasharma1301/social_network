@@ -9,7 +9,7 @@ This is an social networking site ...where <br>
 
 3.forgot password :-there is an security question also if you forgot your password then you use this feature of forgot password.<br>
 
-4. Post :-after sign in you switch on the home page of this network were you post your research and knowledge .<br>
+4.Post :-after sign in you switch on the home page of this network were you post your research and knowledge .<br>
 
 5.massage :-you also communicate with your friends by using massage feature .<br>
 
